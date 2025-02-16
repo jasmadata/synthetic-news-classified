@@ -39,7 +39,7 @@ tags:
 - news-classification
 ---
 
-# Synthetic News Classification Dataset
+# Synthetic News Classified Dataset
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Dataset Size](https://img.shields.io/badge/Size-32.6KB-green.svg)]()
